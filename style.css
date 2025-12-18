@@ -1,0 +1,38 @@
+body {
+    font-family: "Comic Sans MS", cursive;
+    background: linear-gradient(to right, #ffd6e8, #c8f4ff);
+    text-align: center;
+}
+
+.box {
+    background: white;
+    width: 320px;
+    margin: 80px auto;
+    padding: 20px;
+    border-radius: 20px;
+    box-shadow: 0 5px 10px rgba(0,0,0,0.1);
+}
+
+input {
+    width: 90%;
+    padding: 10px;
+    margin: 10px 0;
+    border-radius: 15px;
+    border: 1px solid #ccc;
+}
+
+button {
+    background: #ff7eb3;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 20px;
+    cursor: pointer;
+}
+
+.card {
+    background: #ffeef5;
+    padding: 10px;
+    margin: 10px 0;
+    border-radius: 15px;
+}
